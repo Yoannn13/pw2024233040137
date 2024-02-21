@@ -1,5 +1,5 @@
 <?php
-$npm = 41;
+$npm = 37;
 
 echo "Aku Adalah angka <b>$npm</b> <br>";
 $npm = $npm * 5;
